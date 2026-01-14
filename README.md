@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anas  👋
 
-<!--
-**ANASSIJASSI/ANASSIJASSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Dev/Lead Data & AI** (Azure/GCP) helping teams ship **enterprise GenAI** into production:
+**RAG assistants, document intelligence, agentic workflows, evaluation & monitoring**.
 
-Here are some ideas to get you started:
+I also deliver **hands-on training** in **AI/GenAI** and **Power BI** (workshops, labs, real use cases).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- **RAG Enterprise Accelerator** — citations, security trimming, evaluation, observability
+- **Agentic Tooling Playground** — tool calling, orchestration patterns, guardrails, prompt-injection tests
+- **Document Intelligence Pipeline** — PDF → extraction → structured JSON → index/search
+- **Training Kits** — slide outlines, labs, exercises, trainer notes (AI & Power BI)
+
+## Current focus (Jan 2026)
+- Preparing for **Microsoft AI-102**
+- Deepening expertise in **Agentic AI** (tools, function calling, orchestration, safety)
+- Building reusable accelerators and exploring a SaaS direction around **LLMOps / evaluation**
+
+## Areas of interest
+- Agentic AI (tool use, multi-step workflows, governance)
+- RAG for enterprise knowledge bases (security + citations)
+- LLMOps: evaluation, monitoring, cost controls, reliability
+
+## Contact
+- LinkedIn: [ANAS SI JASSI ](https://www.linkedin.com/in/anas-sijassi/)
+- Email: anas.sijassi@gmail.com
